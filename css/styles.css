@@ -38,11 +38,11 @@ body {
   transition: all .3s;
 }
 
-/*#description a:hover {
+#description a:hover {
   color: #CCC;
 }
 
-.btn {
+/*.btn {
   background-color: darkblue;
   padding: 10px;
   color: white;
