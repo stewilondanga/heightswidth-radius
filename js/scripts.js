@@ -7,7 +7,7 @@ var navigate = (function() {
   });
 })();
 
-/*var props = {
+var props = {
   'border-radius': `
     Sets the radius of an element to the specified amount.<br><br>
     Example:<br>
@@ -74,7 +74,7 @@ var navigate = (function() {
     Full Reference: <a href="https://css-tricks.com/almanac/properties/h/height/">https://css-tricks.com/almanac/properties/h/height/</a>
   `
 };
-$(document).ready(function() {
+/*$(document).ready(function() {
   $.each(props, (key, val) => {
     $('#app').append('<div class="item" data-key="' + key + '">' + key + ' &nbsp; <button class="btn" onclick="takeALook(this)">Take a Look</button></div>');
   });
