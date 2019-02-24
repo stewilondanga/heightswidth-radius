@@ -28,10 +28,11 @@ body {
   margin: 10px;
 }
 
-/*#description {
+#description {
   display: none;
 }
-#description a {
+
+/*#description a {
   color: white;
   font-weight: normal !important;
   transition: all .3s;
