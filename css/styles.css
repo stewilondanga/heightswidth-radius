@@ -53,11 +53,11 @@ body {
   transition: all .3s;
 }
 
-/*.btn:hover {
+.btn:hover {
   background-color: #040044;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
