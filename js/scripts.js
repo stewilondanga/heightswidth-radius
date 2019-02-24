@@ -80,7 +80,7 @@ $(document).ready(function() {
   });
 });
 
-/*function takeALook(button) {
+function takeALook(button) {
   var key = $(button).parent().data('key');
   $('body').animate({
     top: '-600px'
@@ -93,7 +93,7 @@ $(document).ready(function() {
     }, 1000);
   });
 }
-function goBack() {
+/*function goBack() {
   $('body').animate({
     top: '-600px'
   }, 1000, function() {
