@@ -6,7 +6,7 @@ body {
 
 .my_social {
   position: absolute;
-  top: 525px;
+  top: 225px;
   left: 25px;
 }
 
@@ -67,7 +67,7 @@ body {
   font-weight: normal;
   text-align: center;
   color: #c0c0c0;
-  padding-top: 550px;
+  padding-top: 150px;
   padding-bottom: 10px;
   width: 375px;
   margin: 0 auto;
