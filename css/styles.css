@@ -32,12 +32,13 @@ body {
   display: none;
 }
 
-/*#description a {
+#description a {
   color: white;
   font-weight: normal !important;
   transition: all .3s;
 }
-#description a:hover {
+
+/*#description a:hover {
   color: #CCC;
 }
 
