@@ -93,7 +93,8 @@ function takeALook(button) {
     }, 1000);
   });
 }
-/*function goBack() {
+
+function goBack() {
   $('body').animate({
     top: '-600px'
   }, 1000, function() {
